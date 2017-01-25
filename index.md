@@ -1,5 +1,5 @@
 ## Letter from a Birmingham Jail
-from [http://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html](http://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
+[Source](http://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html](http://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html), [PDF of original letter](http://okra.stanford.edu/transcription/document_images/undecided/630416-019.pdf)
 
 16 April 1963
 
@@ -84,5 +84,8 @@ If I have said anything in this letter that overstates the truth and indicates a
 I hope this letter finds you strong in the faith. I also hope that circumstances will soon make it possible for me to meet each of you, not as an integrationist or a civil-rights leader but as a fellow clergyman and a Christian brother. Let us all hope that the dark clouds of racial prejudice will soon pass away and the deep fog of misunderstanding will be lifted from our fear drenched communities, and in some not too distant tomorrow the radiant stars of love and brotherhood will shine over our great nation with all their scintillating beauty.
 
 Yours for the cause of Peace and Brotherhood, Martin Luther King, Jr.
+
 Published in:
+
 King, Martin Luther Jr. 
+
