@@ -1,8 +1,7 @@
-## Letter from a Birmingham Jail
-from [http://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html](http://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html)
-
 16 April 1963
+
 My Dear Fellow Clergymen:
+
 While confined here in the Birmingham city jail, I came across your recent statement calling my present activities "unwise and untimely." Seldom do I pause to answer criticism of my work and ideas. If I sought to answer all the criticisms that cross my desk, my secretaries would have little time for anything other than such correspondence in the course of the day, and I would have no time for constructive work. But since I feel that you are men of genuine good will and that your criticisms are sincerely set forth, I want to try to answer your statement in what I hope will be patient and reasonable terms.
 
 I think I should indicate why I am here in Birmingham, since you have been influenced by the view which argues against "outsiders coming in." I have the honor of serving as president of the Southern Christian Leadership Conference, an organization operating in every southern state, with headquarters in Atlanta, Georgia. We have some eighty five affiliated organizations across the South, and one of them is the Alabama Christian Movement for Human Rights. Frequently we share staff, educational and financial resources with our affiliates. Several months ago the affiliate here in Birmingham asked us to be on call to engage in a nonviolent direct action program if such were deemed necessary. We readily consented, and when the hour came we lived up to our promise. So I, along with several members of my staff, am here because I was invited here. I am here because I have organizational ties here.
@@ -82,5 +81,7 @@ If I have said anything in this letter that overstates the truth and indicates a
 I hope this letter finds you strong in the faith. I also hope that circumstances will soon make it possible for me to meet each of you, not as an integrationist or a civil-rights leader but as a fellow clergyman and a Christian brother. Let us all hope that the dark clouds of racial prejudice will soon pass away and the deep fog of misunderstanding will be lifted from our fear drenched communities, and in some not too distant tomorrow the radiant stars of love and brotherhood will shine over our great nation with all their scintillating beauty.
 
 Yours for the cause of Peace and Brotherhood, Martin Luther King, Jr.
+
 Published in:
+
 King, Martin Luther Jr. 

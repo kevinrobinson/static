@@ -1,6 +1,3 @@
-## Letter from a Birmingham Jail
-[Source](http://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html](http://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html), [PDF of original letter](http://okra.stanford.edu/transcription/document_images/undecided/630416-019.pdf)
-
 16 April 1963
 
 My Dear Fellow Clergymen:
@@ -88,4 +85,3 @@ Yours for the cause of Peace and Brotherhood, Martin Luther King, Jr.
 Published in:
 
 King, Martin Luther Jr. 
-
